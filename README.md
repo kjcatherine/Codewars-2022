@@ -2,7 +2,7 @@
 
 ### Pushing one(1) codewar solutions daily is a routine.
 
-![screencapture-codewars-users-the-kj-2022-05-18-14_53_23](https://user-images.githubusercontent.com/100381663/169058954-17814006-caf7-4c8b-81d3-32949fa3a501.png)
+![screencapture-codewars-users-the-kj-stats-2022-06-01-22_00_52](https://user-images.githubusercontent.com/100381663/171502019-8af7ec07-d760-44a5-9c0c-19f005bf6aae.png)
 
 This repository is dedicated to ducumenting solutions to my codewars challenges. So far, I have Completed over 50+ challenges and I Push at least 10 solutions every week.
 
